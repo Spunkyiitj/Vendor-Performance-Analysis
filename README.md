@@ -56,7 +56,6 @@ Notebooks/
 │   Vendor Performance Analysis.ipynb                      # Main EDA & insights  
 │   Vendor Performance Analysis (Transformed).ipynb        # Data transformation & summary table  
 
-.gitignore                                   # Files/folders ignored by Git  
 README.md                                    # Project documentation (this file)  
 requirements.txt                             # Python dependencies  
 ````
@@ -80,7 +79,7 @@ Refer to `requirements.txt` for exact package versions.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Saif907/vendor-performance-dashboard.git
+   git clone https://github.com/Spunkyiitj/Vendor-Performance-Analysis.git
    cd vendor-performance-dashboard
    ```
 
@@ -127,7 +126,7 @@ Refer to `requirements.txt` for exact package versions.
 ## 🙋 Contact
 
 **Prince Raj**
-📧 [spunkyiitj@gmail.com](mailto: spunkyiitj@gmail.com)
+📧 [spunkyiitj@gmail.com]
 🔗 [LinkedIn](https://www.linkedin.com/in/prince-rajiitj)
 
 Feel free to explore the code and reach out with any questions or feedback!
